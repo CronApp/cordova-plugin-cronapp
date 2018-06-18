@@ -1,0 +1,24 @@
+{
+  "name": "cordova-plugin-cronapp",
+  "version": "1.0.0",
+  "description": "Cordova Plugin Cronapp Dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CronApp/cordova-plugin-cronapp.git"
+  },
+  "keywords": [
+    "cordova",
+    "plugin",
+    "cronapp"
+  ],
+  "author": "Rodrigo Santos Reis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CronApp/cordova-plugin-cronapp/issues"
+  },
+  "homepage": "https://github.com/CronApp/cordova-plugin-cronapp#readme"
+}
