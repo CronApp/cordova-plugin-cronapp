@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-cronapp",
-  "version": "1.0.3-d",
+  "version": "2.1.0",
   "description": "Cordova Plugin Cronapp Dependencies",
   "main": "index.js",
   "scripts": {
