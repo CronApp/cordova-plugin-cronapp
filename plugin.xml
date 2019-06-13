@@ -22,4 +22,5 @@
     <dependency id="phonegap-plugin-barcodescanner" version="^8.0.1"/>
     <dependency id="cordova-plugin-camera" version="^4.0.3"/>
     <dependency id="cordova-plugin-ios-camera-permissions" version="^1.2.0"/>
+    <dependency id="cordova-plugin-decimal-keyboard" version="^1.0.0"/>
 </plugin>
