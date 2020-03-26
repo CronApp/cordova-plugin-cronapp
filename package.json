@@ -1,12 +1,12 @@
 {
   "name": "cordova-plugin-cronapp",
-  "version": "2.2.2",
+  "version": "2.2.3",
   "description": "Cordova Plugin Cronapp Dependencies",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Rodrigo Santos Reis",
+  "author": "Lincoln Minto",
   "license": "ISC",
   "cordova": {
     "id": "cordova-cronapp-plugin",
