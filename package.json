@@ -77,5 +77,6 @@
     "phonegap-plugin-barcodescanner": "^7.0.4",
     "cordova-plugin-cronapp-decimal-keyboard": "^1.0.1",
     "cordova-plugin-sqlite-2": "^1.0.6"
-  }
+  },
+  "cronapp-ide-minimum-version": "1.0.1"
 }
