@@ -24,4 +24,5 @@
     <dependency id="cordova-plugin-cronapp-decimal-keyboard" version="^1.0.1"/>
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.6"/>
     <dependency id="cordova-plugin-ionic-webview" version="^5.0.0"/>
+    <dependency id="cordova-plugin-file-opener2" version="^3.0.5"/>
 </plugin>
