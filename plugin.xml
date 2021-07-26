@@ -8,8 +8,6 @@
 
     <dependency id="cordova-plugin-buildinfo" version="^2.0.2"/>
     <dependency id="cordova-plugin-device" version="^2.0.2"/>
-    <dependency id="cordova-plugin-device-motion" version="^2.0.1"/>
-    <dependency id="cordova-plugin-device-orientation" version="^2.0.1"/>
     <dependency id="cordova-plugin-dialogs" version="^2.0.1"/>
     <dependency id="cordova-plugin-splashscreen" version="^6.0.0"/>
     <dependency id="cordova-plugin-inappbrowser" version="^5.0.0"/>
@@ -25,5 +23,4 @@
     <dependency id="cordova-plugin-sqlite-2" version="^1.0.6"/>
     <dependency id="cordova-plugin-ionic-webview" version="^5.0.0"/>
     <dependency id="cordova-plugin-file-opener2" version="^3.0.5"/>
-    <dependency id="cordova-plugin-cronapp-migrate-storage" version="^1.0.1"/>
 </plugin>
