@@ -25,4 +25,5 @@
     <dependency id="cordova-plugin-ionic-webview" version="^5.0.0"/>
     <dependency id="cordova-plugin-file-opener2" version="^3.0.5"/>
     <dependency id="cordova-plugin-fingerprint-aio" version="^4.0.2"/>
+    <dependency id="cordova-plugin-web-share" version="1.2.0"/>
 </plugin>
