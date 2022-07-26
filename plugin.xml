@@ -10,14 +10,13 @@
     <dependency id="cordova-plugin-buildinfo" version="^2.0.2"/>
     <dependency id="cordova-plugin-device" version="^2.0.2"/>
     <dependency id="cordova-plugin-dialogs" version="^2.0.1"/>
-    <dependency id="cordova-plugin-splashscreen" version="^6.0.0"/>
     <dependency id="cordova-plugin-inappbrowser" version="^5.0.0"/>
     <dependency id="cordova-plugin-network-information" version="^2.0.1"/>
     <dependency id="cordova-plugin-contacts" version="^3.0.1"/>
     <dependency id="cordova-plugin-file" version="^6.0.1"/>
     <dependency id="cordova-plugin-geolocation" version="^4.0.1"/>
     <dependency id="cordova-plugin-vibration" version="^3.1.0"/>
-    <dependency id="phonegap-plugin-barcodescanner" version="^8.0.1"/>
+    <dependency id="@cronapp-phonegap-plugin-barcodescanner" version="^8.1.0-SNAPSHOT"/>
     <dependency id="cordova-plugin-camera" version="^4.0.3"/>
     <dependency id="cordova-plugin-ios-camera-permissions" version="^1.2.0"/>
     <dependency id="cordova-plugin-cronapp-decimal-keyboard" version="^1.0.2"/>
