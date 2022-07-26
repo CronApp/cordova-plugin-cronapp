@@ -16,7 +16,7 @@
     <dependency id="cordova-plugin-file" version="^6.0.1"/>
     <dependency id="cordova-plugin-geolocation" version="^4.0.1"/>
     <dependency id="cordova-plugin-vibration" version="^3.1.0"/>
-    <dependency id="cronapp-phonegap-plugin-barcodescanner" version="8.1.1-SNAPSHOT.1"/>
+    <dependency id="cronapp-phonegap-plugin-barcodescanner" version="8.1.1-SNAPSHOT.2"/>
     <dependency id="cordova-plugin-camera" version="^4.0.3"/>
     <dependency id="cordova-plugin-ios-camera-permissions" version="^1.2.0"/>
     <dependency id="cordova-plugin-cronapp-decimal-keyboard" version="^1.0.2"/>
